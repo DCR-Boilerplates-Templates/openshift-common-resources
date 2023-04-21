@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: <name>
+  namespace: <namespace>
+  annotations:
+    simple/test: "value"
+  labels:
+    app.kubernetes.io/part-of: <project>
+data:
+  <filename>: |
+    <file content>

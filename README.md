@@ -1,2 +1,2 @@
 # openshift-common-resources
-Boilerplates of Openshift resources objects
+Different boilerplates and templates of Openshift resources objects
